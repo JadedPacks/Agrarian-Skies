@@ -10,9 +10,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Agrarian-Skies-4.0.0",
-  "version": "4.0.0",
-  "author": "JadedPacks",
+  "name": "AgSkies",
+  "version": "3.1.4",
+  "author": "jadedcat",
   "files": [
     {
       "projectID": 223793,
