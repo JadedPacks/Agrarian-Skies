@@ -11,7 +11,7 @@
 	"manifestType": "minecraftModpack",
 	"manifestVersion": 1,
 	"name": "Agrarian Skies",
-	"version": "4.0.2",
+	"version": "4.0.3",
 	"author": "Jaded Packs",
 	"files": [
 		{
@@ -226,7 +226,7 @@
 		},
 		{
 			"projectID": 317957,
-			"fileID": 2690643,
+			"fileID": 2693154,
 			"required": true
 		},
 		{
@@ -271,7 +271,7 @@
 		},
 		{
 			"projectID": 318159,
-			"fileID": 2693066,
+			"fileID": 2693147,
 			"required": true
 		}
 	],
