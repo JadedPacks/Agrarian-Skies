@@ -41,7 +41,8 @@
 	},
 	{
 		"repo": "https://github.com/JadedPacks/Agrarian-Skies/raw/master/modz/",
-		"file": "ZansMinimap1.6.4.zip"
+		"file": "ZansMinimap1.6.4.zip",
+		"clientOnly": true
 	},
 	{
 		"repo": "https://github.com/JadedPacks/Agrarian-Skies/raw/master/modz/",
