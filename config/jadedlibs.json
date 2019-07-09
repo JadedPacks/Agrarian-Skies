@@ -25,7 +25,8 @@
 	},
 	{
 		"repo": "https://github.com/JadedPacks/Agrarian-Skies/raw/master/modz/",
-		"file": "NotEnoughKeys-1.6.4-0.0.4.jar"
+		"file": "NotEnoughKeys-1.6.4-0.0.4.jar",
+		"clientOnly": true
 	},
 	{
 		"repo": "https://github.com/JadedPacks/Agrarian-Skies/raw/master/modz/",
